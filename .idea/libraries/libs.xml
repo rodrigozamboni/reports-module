@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot/build/libs/reports-module-0.0.1-SNAPSHOT-plain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-boot/build/libs/spring-boot-0.0.1-SNAPSHOT-plain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-boot/build/libs/spring-boot-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spring-boot/build/libs/reports-module-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
